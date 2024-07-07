@@ -6,7 +6,7 @@
 }
 
 .container {
-  background-image: url(../images/image\ 1.png);
+  background-image: url(../../assets/images/image\ 1.png);
   min-height: 100vh;
   padding: 30px 0;
 }
