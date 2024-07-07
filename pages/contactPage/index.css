@@ -2,4 +2,57 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}/*# sourceMappingURL=iindex.css.map */
+}
+
+.container {
+  background: #303030;
+  padding: 83px 0 18px 101px;
+  min-height: 100vh;
+}
+.container ul li {
+  list-style-type: none;
+}
+.container ul h2 {
+  color: #fff;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container ul h1 {
+  color: #fff;
+  font-family: "Playfair Display";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+}
+.container ul p {
+  color: #fff;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.container ul h3 {
+  color: #fff;
+  font-family: "Playfair Display";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.container ul h4 {
+  color: #8c8c8c;
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.container :placeholder {
+  color: #303030;
+}/*# sourceMappingURL=index.css.map */
